@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 - 📊 <b>Visualization Journey:</b> Learning the art of storytelling by building interactive dashboards in Tableau and Power BI.
 - 📈 <b>Current Objective:</b> Developing end-to-end projects that transform raw data into actionable business summaries
 
-  
+#### 📫 Follow Me
+
+- 📊 **Tableau**: <a href="https://public.tableau.com/app/profile/shensi.h.s/vizzes">View my Data Visualizations</a>
