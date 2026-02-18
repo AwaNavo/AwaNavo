@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 💡 <b>Core Foundations:</b> Proficient in Data Cleaning and Exploratory Data Analysis (EDA) using Excel, SQL & Tableau 
 - 🔍 <b>Expanding My Toolkit:</b> Currently deep-diving into Python for data manipulation and advancing my SQL skills to handle complex relational databases.
 - 📊 <b>Visualization Journey:</b> Learning the art of storytelling by building interactive dashboards in Tableau and Power BI.
-- 📌 <b>Current Objective:</b> Developing end-to-end projects that transform raw data into actionable business summaries
+- 🎯 <b>Current Objective:</b> Developing end-to-end projects that transform raw data into actionable business summaries
 
 #### 📫 Follow Me
 
