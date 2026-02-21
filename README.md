@@ -1,4 +1,4 @@
-## Hi there 👋 I am Awasha, a Data Analyst Enthusiast
+## Hi there 👋 I am Awasha, an Aspiring Data Analyst 
 
  I am a curious problem-solver transitioning into the world of data. I enjoy taking messy spreadsheets and turning them into clear, organized stories.
  
