@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 #### 📫 Follow Me
 
-- 📊 **Tableau**: <a href="https://public.tableau.com/app/profile/shensi.h.s/vizzes">View my Data Visualizations</a>
+Tableau📈: <a href="https://public.tableau.com/app/profile/shensi.h.s/vizzes">View my Data Visualizations</a>
